@@ -1,1 +1,1 @@
-# MattsBadCode
+# CodeQLDemo
